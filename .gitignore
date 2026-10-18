@@ -11,7 +11,7 @@ CMakeFiles/
 *.dylib
 
 # Executables
-bench
+/bench
 *.out
 
 # IDE
